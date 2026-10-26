@@ -1,0 +1,4 @@
+Contact: mailto:booking@aurorataxi.se
+Expires: 2027-10-26T00:00:00.000Z
+Preferred-Languages: sv, en
+Canonical: https://www.taxi-aurora-in-kiruna.com/.well-known/security.txt
